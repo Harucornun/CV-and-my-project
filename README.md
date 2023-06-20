@@ -1,2 +1,4 @@
-# GithubforProject
-Welcome to my project, lets have fun
+# Hi, I'm Phatchara! 👋
+
+## 🚀 About Me
+I'm a Business Analyst...
