@@ -1,0 +1,5 @@
+am,vs,avg_mpg,sum_mpg,min_mpg,max_mpg,n
+Auto,straight,20.742857142857144,145.2,17.8,24.4,7
+Auto,v-shaped,15.05,180.6,10.4,19.2,12
+Manual,straight,28.37142857142857,198.6,21.4,33.9,7
+Manual,v-shaped,19.75,118.5,15,26,6

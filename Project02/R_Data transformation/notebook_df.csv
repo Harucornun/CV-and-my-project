@@ -1,0 +1,857 @@
+model_name,base_clock,turbo_clock,NBS_score
+AMD A8-3500M,GHz,GHz,0 / 10
+AMD A4-3305MX,GHz,GHz,0 / 10
+Intel Core i7-3610QM,GHz,GHz,0 / 10
+Intel Core i5-3210M,GHz,GHz,0 / 10
+AMD A6-4400M,GHz,GHz,0 / 10
+Intel Core i7-3720QM,GHz,GHz,0 / 10
+AMD A8-4500M,GHz,GHz,0 / 10
+Intel Core i5-4200M,GHz,GHz,0 / 10
+Intel Core M-5Y70,GHz,GHz,0 / 10
+Intel Core M-5Y70,GHz,GHz,0 / 10
+Intel Atom Z3735F,GHz,GHz,0 / 10
+AMD Athlon Silver 3050e,GHz,GHz,0 / 10
+Intel Core i7-11370H,GHz,GHz,0 / 10
+AMD Ryzen 5 PRO 4650U,GHz,GHz,0 / 10
+Intel Core i5-10310U,GHz,GHz,0 / 10
+Intel Core i7-11370H,GHz,GHz,0 / 10
+Intel Core i7-3612QM,GHz,GHz,0 / 10
+Intel Core i5-4200M,GHz,GHz,0 / 10
+Intel? Celeron? Processor 2955U,GHz,GHz,0 / 10
+Intel® Core i5-6300U Processor,GHz,GHz,0 / 10
+AMD Ryzen PRO 5 2500U,GHz,GHz,0 / 10
+Intel Core i9-13980HX,2.20 GHz,5.60 GHz,10 / 10
+Intel Core i9-13950HX,1.60 GHz,5.50 GHz,9.81 / 10
+Intel Core i9-13900HX,2.20 GHz,5.40 GHz,9.2 / 10
+Intel Core i9-13900HK,2.60 GHz,5.40 GHz,7.72 / 10
+Intel Core i9-13900H,2.60 GHz,5.40 GHz,7.48 / 10
+Intel Core i9-12900HX,3.6 GHz,5 GHz,7.18 / 10
+Intel Core i7-12800HX,3.4 GHz,4.8 GHz,6.81 / 10
+Intel Core i7-13800H,2.50 GHz,5.20 GHz,6.48 / 10
+Intel Core i7-13700H,2.40 GHz,5.00 GHz,6.03 / 10
+Intel Core i9-12950HX,3.6 GHz,5 GHz,5.92 / 10
+Intel Core i9-12900HK,3.8 GHz,5 GHz,5.71 / 10
+Intel Core i9-12900H,3.8 GHz,5 GHz,5.47 / 10
+Intel Core i7-12700H,3.5 GHz,4.7 GHz,5.22 / 10
+AMD Ryzen 9 6900HX,3.3 GHz,4.9 GHz,4.61 / 10
+AMD Ryzen 9 6900HS,3.3 GHz,4.9 GHz,4.52 / 10
+Intel Core i7-12800H,3.7 GHz,4.8 GHz,4.47 / 10
+AMD Ryzen 7 6800H,3.2 GHz,4.7 GHz,4.38 / 10
+Intel Core i9-11900H,2.5 GHz,4.9 GHz,4.36 / 10
+AMD Ryzen 9 5980HX,3.3 GHz,4.8 GHz,4.33 / 10
+Intel Core i9-11980HK,2.6 GHz,5 GHz,4.33 / 10
+Intel Core i7-1280P,1.3 GHz,4.8 GHz,4.25 / 10
+AMD Ryzen 9 5900HX,3.3 GHz,4.6 GHz,4.22 / 10
+Intel Core i5-12500H,3.3 GHz,4.5 GHz,4.21 / 10
+AMD Ryzen 9 5980HS,3 GHz,4.8 GHz,4.19 / 10
+Apple M2 Max,2.42 GHz,3.48 GHz,4.17 / 10
+Apple M2 Pro 12 Core,2.42 GHz,3.48 GHz,4.16 / 10
+AMD Ryzen 9 5900HS,3.3 GHz,4.6 GHz,4.11 / 10
+AMD Ryzen 7 5800H,3.2 GHz,4.4 GHz,4.04 / 10
+AMD Ryzen 7 6800HS,3.2 GHz,4.7 GHz,4 / 10
+Intel Core i7-11800H,2.3 GHz,4.6 GHz,3.9 / 10
+AMD Ryzen 9 4900H,3.3 GHz,4.4 GHz,3.88 / 10
+AMD Ryzen 9 4900HS,3 GHz,4.3 GHz,3.75 / 10
+Intel Core i7-12650H,3.5 GHz,4.7 GHz,3.75 / 10
+AMD Ryzen 7 4800H,2.9 GHz,4.2 GHz,3.73 / 10
+Intel Core i5-12450H,3.3 GHz,4.4 GHz,3.61 / 10
+Intel Core i7-1260P,2.20 GHz,5.00 GHz,3.5 / 10
+Intel Core i9-10980HK,2.4 GHz,5.3 GHz,3.49 / 10
+Intel Core i7-11600H,2.9 GHz,4.6 GHz,3.49 / 10
+AMD Ryzen 7 4800HS,2.90 GHz,4.20 GHz,3.42 / 10
+Intel Core i7-1270P,1.6 GHz,4.8 GHz,3.41 / 10
+Intel Core i7-1370P,1.90 GHz,5.20 GHz,3.41 / 10
+Apple M1 Pro 10-Core,2.1 GHz,3.4 GHz,3.4 / 10
+Apple M1 Max,2.1 GHz,4 GHz,3.4 / 10
+AMD Ryzen 5 6600H,3.3 GHz,4.5 GHz,3.39 / 10
+Intel Core i7-10870H,2.2 GHz,5 GHz,3.34 / 10
+AMD Ryzen 7 4980U,2 GHz,4.4 GHz,3.34 / 10
+AMD Ryzen 5 6600HS,3.3 GHz,4.5 GHz,3.33 / 10
+AMD Ryzen 7 7735HS,3.20 GHz,4.75 GHz,3.33 / 10
+AMD Ryzen 5 7535HS,3.30 GHz,4.55 GHz,3.27 / 10
+Intel Core i9-9980HK,2.4 GHz,5 GHz,3.27 / 10
+AMD Ryzen 7 5800U,1.9 GHz,4.4 GHz,3.25 / 10
+Intel Core i7-10875H,2.3 GHz,5.1 GHz,3.21 / 10
+Apple M2 Pro 10 Core,2.42 GHz,3.48 GHz,3.19 / 10
+AMD Ryzen 5 5600H,3.30 GHz,4.20 GHz,3.16 / 10
+Intel Core i5-1350P,1.90 GHz,4.70 GHz,3.07 / 10
+Intel Core i9-9880H,2.3 GHz,4.8 GHz,3.03 / 10
+AMD Ryzen 7 4800U,1.8 GHz,4.2 GHz,3 / 10
+AMD Ryzen 7 PRO 5850U,1.9 GHz,4.4 GHz,2.97 / 10
+Intel Core i5-1240P,1.2 GHz,4.4 GHz,2.82 / 10
+Intel Core i5-1340P,1.90 GHz,4.60 GHz,2.82 / 10
+Apple M1 Pro 8-Core,2.1 GHz,3.4 GHz,2.66 / 10
+Intel Core i7-10750H,2.6 GHz,5 GHz,2.62 / 10
+Intel Core i5-10500H,2.5 GHz,4.5 GHz,2.51 / 10
+Intel Core i5-11400H,2.7 GHz,4.5 GHz,2.51 / 10
+Intel Core i7-10850H,2.7 GHz,5.1 GHz,2.48 / 10
+Intel Core i7-9750H,2.6 GHz,4.5 GHz,2.39 / 10
+Apple M1,2.06 GHz,3.2 GHz,2.16 / 10
+Intel Core i5-11300H,3.1 GHz,4.4 GHz,1.93 / 10
+Intel Core i7-11370H,3.3 GHz,4.8 GHz,1.9 / 10
+Intel Core i7-1195G7,2.9 GHz,5 GHz,1.9 / 10
+Intel Core i7-11375H,3.3 GHz,5 GHz,1.87 / 10
+Intel Core i5-10300H,2.5 GHz,4.5 GHz,1.79 / 10
+Intel Core i7-1185G7,3 GHz,4.8 GHz,1.75 / 10
+Intel Core i7-1165G7,2.8 GHz,4.7 GHz,1.71 / 10
+Intel Core i5-9300H,2.4 GHz,4.1 GHz,1.59 / 10
+Intel Core i3-1115G4,3 GHz,4.1 GHz,0.99 / 10
+Intel Core i9-10900K,3.7 GHz,5.3 GHz,0.06 / 10
+Intel Core i7-12850HX,3.4 GHz,4.8 GHz,0.05 / 10
+Intel Core i7-12650HX,3.3 GHz,4.7 GHz,0.05 / 10
+Intel Core i5-12600HX,3.3 GHz,4.6 GHz,0.05 / 10
+Intel Core i5-12450HX,3.1 GHz,4.4 GHz,0.05 / 10
+AMD Ryzen 7 5800HS,2.8 GHz,4.4 GHz,0.05 / 10
+Intel Core i5-12600H,2 GHz,4.5 GHz,0.05 / 10
+AMD Ryzen 9 6980HX,3.3 GHz,5 GHz,0.05 / 10
+Intel Core i9-9900K,3.6 GHz,5 GHz,0.04 / 10
+AMD Ryzen 5 4600HS,3 GHz,4 GHz,0.04 / 10
+Intel Xeon W-10885M,2.4 GHz,5.3 GHz,0.04 / 10
+AMD Ryzen 9 6980HS,3.3 GHz,5 GHz,0.04 / 10
+AMD Ryzen 7 1700,3 GHz,3.7 GHz,0.03 / 10
+Intel Core i7-8750H,2.2 GHz,4.1 GHz,0.03 / 10
+Intel Core i7-8850H,2.6 GHz,4.3 GHz,0.03 / 10
+Intel Core i9-8950HK,2.9 GHz,4.8 GHz,0.03 / 10
+AMD Ryzen 7 2700,3.2 GHz,4.1 GHz,0.03 / 10
+Intel Core i7-9750HF,2.6 GHz,4.5 GHz,0.03 / 10
+Intel Core i7-10700K,3.8 GHz,5.1 GHz,0.03 / 10
+Intel Xeon E-2276M,2.8 GHz,4.7 GHz,0.03 / 10
+Intel Core i5-10200H,2.4 GHz,4.1 GHz,0.03 / 10
+Intel Core i7-5950HQ,2.9 GHz,3.8 GHz,0.02 / 10
+Intel Core i7-4980HQ,2.8 GHz,4 GHz,0.02 / 10
+Intel Core i7-6700HQ,2.6 GHz,3.5 GHz,0.02 / 10
+Intel Core i7-6820HK,2.7 GHz,3.6 GHz,0.02 / 10
+Xeon E3-1505M v5,2.8 GHz,3.7 GHz,0.02 / 10
+Intel Core i7-6700K Processor,4 GHz,4.2 GHz,0.02 / 10
+Intel Core i7-7700HQ,2.8 GHz,3.8 GHz,0.02 / 10
+Intel Core i7-7820HK,2.9 GHz,3.9 GHz,0.02 / 10
+Intel Core i7-7820HQ,2.9 GHz,3.9 GHz,0.02 / 10
+Intel Core i5-8300H,2.3 GHz,4 GHz,0.02 / 10
+Intel Core i5-8400H,2.5 GHz,4.2 GHz,0.02 / 10
+Intel Core i7-8705G,3.1 GHz,4.1 GHz,0.02 / 10
+AMD Ryzen 5 3550H,2.1 GHz,3.7 GHz,0.02 / 10
+AMD Ryzen 7 3750H,2.3 GHz,4 GHz,0.02 / 10
+Intel Core i5-9300HF,2.4 GHz,4.1 GHz,0.02 / 10
+Intel Core i7-4900MQ,2.8 GHz,3.8 GHz,0.02 / 10
+Intel Core i5-9400H,2.5 GHz,4.3 GHz,0.02 / 10
+Intel Core i7-4800MQ,2.7 GHz,3.8 GHz,0.02 / 10
+Intel Core i7-4930MX,3 GHz,3.9 GHz,0.02 / 10
+Intel Core i7-4810MQ,2.8 GHz,3.8 GHz,0.02 / 10
+Intel Core i7-4940MX,3.1 GHz,4 GHz,0.02 / 10
+Intel Core i7-5700HQ,2.7 GHz,3.5 GHz,0.02 / 10
+Intel Core i3-1220P,1.1 GHz,4.4 GHz,0.01 / 10
+Intel Core i5-6300HQ Processor,2.3 GHz,3.2 GHz,0.01 / 10
+Intel Core i7-2630QM,2 GHz,2.9 GHz,0.01 / 10
+Intel Core i7-2720QM,2.2 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-2620M,2.7 GHz,3.4 GHz,0.01 / 10
+AMD FX-9800P,2.7 GHz,3.6 GHz,0.01 / 10
+Intel Core i7-2820QM,2.3 GHz,3.4 GHz,0.01 / 10
+Intel Core i5-2540M,2.6 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-2670QM,2.2 GHz,3.2 GHz,0.01 / 10
+Intel Core i5-7300HQ Processor,2.5 GHz,3.5 GHz,0.01 / 10
+Intel Core i7-2640M,2.8 GHz,3.5 GHz,0.01 / 10
+AMD FX-9830P,3 GHz,3.7 GHz,0.01 / 10
+Intel Core i7-2760QM,2.4 GHz,3.5 GHz,0.01 / 10
+Intel Core i7-3610QM,2.3 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-3720QM,2.6 GHz,3.6 GHz,0.01 / 10
+Intel Core i7-3612QM,2.1 GHz,3.1 GHz,0.01 / 10
+Intel Core i7-3630QM,2.4 GHz,3.4 GHz,0.01 / 10
+Intel Core i7-3615QM,2.3 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-3632QM,2.2 GHz,3.2 GHz,0.01 / 10
+Intel Core i7-3820QM,2.7 GHz,3.7 GHz,0.01 / 10
+Intel Core i7-4702MQ,2.2 GHz,3.2 GHz,0.01 / 10
+Intel Core i7-4700MQ,2.4 GHz,3.4 GHz,0.01 / 10
+Intel Core i7-4700HQ,2.4 GHz,3.4 GHz,0.01 / 10
+Intel Core i7-4750HQ,2 GHz,3.2 GHz,0.01 / 10
+Intel Core i7-4850HQ,2.3 GHz,3.5 GHz,0.01 / 10
+Intel Core i7-4710HQ,2.5 GHz,3.5 GHz,0.01 / 10
+Intel Core i7-4712MQ,2.3 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-4710MQ,2.5 GHz,3.5 GHz,0.01 / 10
+Intel Core i7-4712HQ,2.3 GHz,3.3 GHz,0.01 / 10
+Intel Core i3-1125G4,2 GHz,3.7 GHz,0.01 / 10
+Intel Core i7-4870HQ,2.5 GHz,3.7 GHz,0.01 / 10
+Intel Core i7-4770HQ,2.2 GHz,3.4 GHz,0.01 / 10
+Intel Core i7-11390H,3.4 GHz,5 GHz,0.01 / 10
+Intel Core i7-4720HQ,2.6 GHz,3.6 GHz,0.01 / 10
+Intel Core i7-4702HQ,2.2 GHz,3.2 GHz,0.01 / 10
+Intel Core i7-920XM,0 GHz,0 GHz,0.01 / 10
+Intel Core i7-4750HQ,1 GHz,1 GHz,0 / 10
+M7-6Y75,1.2 GHz,3.1 GHz,0 / 10
+Intel Core i7-13620H,2.40 GHz,4.90 GHz,0 / 10
+Intel Core i9-13980HK,2.20 GHz,5.60 GHz,0 / 10
+Intel Core i7-13850HX,2.10 GHz,5.30 GHz,0 / 10
+Intel Core i7-13700HX,2.10 GHz,5.00 GHz,0 / 10
+Intel Core i7-13650HX,2.60 GHz,4.90 GHz,0 / 10
+Intel Core i5-13600HX,2.60 GHz,4.80 GHz,0 / 10
+Intel Core i5-13500HX,2.50 GHz,4.70 GHz,0 / 10
+Intel Core i9-13905H,2.60 GHz,5.40 GHz,0 / 10
+Intel Core i7-13705H,2.40 GHz,5.00 GHz,0 / 10
+Intel Core i5-13600H,2.80 GHz,4.80 GHz,0 / 10
+Intel Core i7-1360P,3.70 GHz,5.00 GHz,4.26 / 10
+AMD Ryzen 7 5825U,2.00 GHz,4.50 GHz,3.68 / 10
+AMD Ryzen 7 6800U,2.7 GHz,4.7 GHz,3.51 / 10
+AMD Ryzen 7 7730U,2.00 GHz,4.50 GHz,3.47 / 10
+AMD Ryzen 7 7735U,2.7 GHz,4.7 GHz,3.45 / 10
+AMD Ryzen 5 7535U,2.90 GHz,4.55 GHz,3.27 / 10
+AMD Ryzen 3 7335U,3.00 GHz,4.30 GHz,3.27 / 10
+AMD Ryzen 5 7530U,2.00 GHz,4.50 GHz,3.27 / 10
+AMD Ryzen 5 6600U,2.9 GHz,4.5 GHz,3.27 / 10
+AMD Ryzen 3 7320U,2.40 GHz,4.10 GHz,3.18 / 10
+AMD Ryzen 5 7520U,2.80 GHz,4.30 GHz,3.18 / 10
+AMD Ryzen 5 5600H,3.3 GHz,4.2 GHz,3.16 / 10
+AMD Ryzen 7 5700U,1.80 GHz,4.30 GHz,2.98 / 10
+AMD Ryzen 7 PRO 4750U,1.7 GHz,4.1 GHz,2.84 / 10
+AMD Ryzen 5 5625U,2.3 GHz,4.3 GHz,2.77 / 10
+Intel Core i7-1265U,1.3 GHz,4.8 GHz,2.75 / 10
+AMD Ryzen 5 5600U,2.3 GHz,4.2 GHz,2.66 / 10
+Intel Core i5-1245U,1.2 GHz,4.4 GHz,2.64 / 10
+AMD Ryzen 5 Pro 4680U,2.1 GHz,4 GHz,2.61 / 10
+Intel Core i7-1250U,1.1 GHz,4.7 GHz,2.61 / 10
+AMD Ryzen 5 5500U,2.1 GHz,4 GHz,2.51 / 10
+Apple M2,2.42 GHz,3.48 GHz,2.44 / 10
+AMD Ryzen 5 Pro 5650U,2.3 GHz,4.2 GHz,2.43 / 10
+AMD Ryzen 5 PRO 4650U,2.1 GHz,4 GHz,2.34 / 10
+Intel Core i7-1255U,1.2 GHz,4.7 GHz,2.33 / 10
+AMD Ryzen 7 4700U,2 GHz,4.1 GHz,2.2 / 10
+AMD Ryzen 5 4600U,2.1 GHz,4 GHz,2.19 / 10
+Intel Core i7-10710U,1.1 GHz,4.7 GHz,2.13 / 10
+AMD Ryzen 3 Pro 5450U,2.6 GHz,4 GHz,2.07 / 10
+Intel Core i5-11320H,3.2 GHz,4.5 GHz,1.98 / 10
+AMD Ryzen 5 4500U,2.3 GHz,4 GHz,1.79 / 10
+AMD Ryzen 3 5300U,2.6 GHz,3.8 GHz,1.76 / 10
+Intel Core i5-1155G7,2.5 GHz,4.5 GHz,1.73 / 10
+Intel Core i3-1215U,1.2 GHz,4.4 GHz,1.67 / 10
+Intel Core i7-1160G7,2.1 GHz,4.4 GHz,1.64 / 10
+Intel Core i5-1135G7,2.4 GHz,4.2 GHz,1.64 / 10
+Intel Core i5-1235U,1.3 GHz,4.4 GHz,1.61 / 10
+Intel Core i5-1145G7,2.6 GHz,4.4 GHz,1.59 / 10
+Intel Core i5-1035G7,1.2 GHz,3.7 GHz,1.43 / 10
+AMD Ryzen 5 3580U,2.2 GHz,3.7 GHz,1.39 / 10
+Intel Core i7-10510U,1.8 GHz,4.8 GHz,1.36 / 10
+AMD Ryzen 7 3700U,2.3 GHz,4 GHz,1.35 / 10
+Intel Core i7-1065G7,1.3 GHz,3.9 GHz,1.33 / 10
+AMD Ryzen 5 3500U,2.1 GHz,3.7 GHz,1.31 / 10
+Intel Core i5-10210U,1.6 GHz,4.2 GHz,1.24 / 10
+Intel Core i5-1130G7,1.8 GHz,4 GHz,1.24 / 10
+Intel Core i5-1035G1,1 GHz,3.6 GHz,1.22 / 10
+Intel Core i5-1035G4,1.1 GHz,3.7 GHz,1.21 / 10
+AMD Ryzen 5 3450U,2.1 GHz,3.5 GHz,1.14 / 10
+Intel Core i5-1230U,1 GHz,4.4 GHz,1.03 / 10
+Intel Core i3-1005G1,1.2 GHz,3.4 GHz,0.81 / 10
+AMD Ryzen 3 3250U,2.6 GHz,3.5 GHz,0.71 / 10
+Intel Core i3-10110U,2.1 GHz,4.1 GHz,0.65 / 10
+Intel Pentium Silver N6000,1.1 GHz,3.3 GHz,0.61 / 10
+Intel Pentium Silver N5000,1.1 GHz,2.7 GHz,0.48 / 10
+Intel Pentium Silver N5030,2 GHz,3.1 GHz,0.45 / 10
+AMD Ryzen 7 2700U,2.2 GHz,3.8 GHz,0.02 / 10
+Intel Core i5-8259U,2.3 GHz,3.8 GHz,0.02 / 10
+AMD Ryzen 7 PRO 2700U,2.2 GHz,3.8 GHz,0.02 / 10
+Intel Core i5-8269U,2.6 GHz,4.2 GHz,0.02 / 10
+Intel Core i7-10610U,1.8 GHz,4.9 GHz,0.02 / 10
+Intel Core i5-580M,2.66 GHz,3.33 GHz,0.01 / 10
+Intel Core i7-6500U,2.5 GHz,3.1 GHz,0.01 / 10
+Intel Core i5-6200U,2.3 GHz,2.8 GHz,0.01 / 10
+Intel Core i3-6100U,2.3 GHz,0 GHz,0.01 / 10
+Intel Core i7-6560U,2.2 GHz,3.2 GHz,0.01 / 10
+Intel Core i5-2410M,2.3 GHz,2.9 GHz,0.01 / 10
+AMD A10-8780P Extreme,2 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-7560U,2.4 GHz,3.8 GHz,0.01 / 10
+Intel Core i5-6198DU,2.5 GHz,GHz,0.01 / 10
+Intel Core i7-6600U Processor,2.6 GHz,3.4 GHz,0.01 / 10
+AMD FX-8800P,2.7 GHz,3.6 GHz,0.01 / 10
+Intel Core i5-2520M,2.5 GHz,3.2 GHz,0.01 / 10
+Intel Core i7-7500U,2.7 GHz,3.5 GHz,0.01 / 10
+Intel Core i5-7200U,2.5 GHz,3.1 GHz,0.01 / 10
+AMD A10-9600P,2.4 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-6498DU,2.5 GHz,2.5 GHz,0.01 / 10
+Intel Core i3-7100U,2.4 GHz,0 GHz,0.01 / 10
+AMD Phenom II X4 N950,2.1 GHz,0 GHz,0.01 / 10
+Intel Core i5-6360U Processor,2 GHz,3.1 GHz,0.01 / 10
+Intel Core i5-6267U,2.9 GHz,3.3 GHz,0.01 / 10
+Intel Core i5-2430M,2.4 GHz,3 GHz,0.01 / 10
+Intel Core i5-6300U Processor,2.4 GHz,3 GHz,0.01 / 10
+AMD A12-9700P,2.5 GHz,3.4 GHz,0.01 / 10
+AMD A10-9620P,2.5 GHz,3.4 GHz,0.01 / 10
+Intel Core i5-8250U,1.6 GHz,3.4 GHz,0.01 / 10
+Intel Core i7-8550U,1.8 GHz,4 GHz,0.01 / 10
+Intel Core i5-7360U,2.3 GHz,3.6 GHz,0.01 / 10
+Intel Core i5-2450M,2.5 GHz,3.1 GHz,0.01 / 10
+Intel Core i5-7267U,3.1 GHz,3.5 GHz,0.01 / 10
+Intel Core i5-2435M,2.4 GHz,3 GHz,0.01 / 10
+Intel Core i3-7130U,2.7 GHz,0 GHz,0.01 / 10
+AMD Ryzen 5 2500U,2 GHz,3.6 GHz,0.01 / 10
+Intel Core i7-8650U,1.9 GHz,4.2 GHz,0.01 / 10
+Intel Core i7-7660U,2.5 GHz,4 GHz,0.01 / 10
+Intel Core i5-7300U,2.6 GHz,3.5 GHz,0.01 / 10
+Intel Core i5-3210M,2.5 GHz,3.1 GHz,0.01 / 10
+Intel Core i3-8130U,2.2 GHz,3.4 GHz,0.01 / 10
+Intel Core i7-3517U,1.9 GHz,3 GHz,0.01 / 10
+AMD A12-9720P,2.7 GHz,3.6 GHz,0.01 / 10
+AMD Ryzen 3 2200U,2.5 GHz,3.4 GHz,0.01 / 10
+Intel Core i7-3520M,2.9 GHz,3.6 GHz,0.01 / 10
+Intel Core i3-7020U,2.3 GHz,0 GHz,0.01 / 10
+Intel Core i5-3427U,1.8 GHz,2.8 GHz,0.01 / 10
+Intel Core i5-8350U,1.7 GHz,3.6 GHz,0.01 / 10
+Intel Core i3-3110M,2.4 GHz,GHz,0.01 / 10
+Intel Core i3-8145U,2.1 GHz,3.9 GHz,0.01 / 10
+Intel Core i7-3667U,2 GHz,3.2 GHz,0.01 / 10
+Intel Core i5-8265U,1.6 GHz,3.9 GHz,0.01 / 10
+Intel Core i7-8565U,1.8 GHz,4.6 GHz,0.01 / 10
+AMD Ryzen 5 PRO 2500U,2 GHz,3.6 GHz,0.01 / 10
+Intel Core i7-720QM,1.6 GHz,2.8 GHz,0.01 / 10
+AMD Ryzen 3 3200U,2.6 GHz,3.5 GHz,0.01 / 10
+Intel Core i5-8210Y,1.6 GHz,3.6 GHz,0.01 / 10
+Intel Pentium 4417U,2.3 GHz,0 GHz,0.01 / 10
+Intel Core i5-3320M,2.6 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-3537U,2 GHz,3.1 GHz,0.01 / 10
+Intel Pentium Gold 5405U,2.3 GHz,0 GHz,0.01 / 10
+Intel Core i5-3230M,2.6 GHz,3.2 GHz,0.01 / 10
+Intel Core i3-3120M,2.5 GHz,0 GHz,0.01 / 10
+Intel Core i7-3540M,3 GHz,3.7 GHz,0.01 / 10
+AMD A10-5750M,2.5 GHz,3.5 GHz,0.01 / 10
+Intel Core i5-8365U,1.6 GHz,4.1 GHz,0.01 / 10
+AMD Ryzen PRO 3 3300U,2.1 GHz,3.5 GHz,0.01 / 10
+AMD Ryzen 5 PRO 3500U,2.1 GHz,3.7 GHz,0.01 / 10
+Intel Core i5-4200U,1.6 GHz,2.6 GHz,0.01 / 10
+Intel Core i7-4500U,1.8 GHz,3 GHz,0.01 / 10
+Intel Core i5-4200M,2.5 GHz,3.1 GHz,0.01 / 10
+Intel Core i5-3437U,1.9 GHz,2.9 GHz,0.01 / 10
+Intel Core i5-8257U,1.4 GHz,3.9 GHz,0.01 / 10
+Intel Core i5-1038NG7,2 GHz,3.8 GHz,0.01 / 10
+Intel Core i5-4285U,2.4 GHz,2.9 GHz,0.01 / 10
+Intel Core i5-4288U,2.6 GHz,3.1 GHz,0.01 / 10
+Intel Core i3-4000M,2.4 GHz,0 GHz,0.01 / 10
+AMD Ryzen 3 4300U,2.7 GHz,3.7 GHz,0.01 / 10
+Intel Core i7-8665U,1.9 GHz,4.8 GHz,0.01 / 10
+Intel Core i5-4300M,2.6 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-4600U,2.1 GHz,3.3 GHz,0.01 / 10
+Intel Core i5-4200H,2.8 GHz,3.4 GHz,0.01 / 10
+Intel Core i5-4300U,1.9 GHz,2.9 GHz,0.01 / 10
+Intel Core i3-10100T,3 GHz,3.8 GHz,0.01 / 10
+Intel Core 2 Quad Q9100,0 GHz,0 GHz,0.01 / 10
+Intel Core i5-4210U,1.7 GHz,2.7 GHz,0.01 / 10
+Intel Core i7-4510U,2 GHz,3.1 GHz,0.01 / 10
+Intel Core i5-4210M,2.6 GHz,3.2 GHz,0.01 / 10
+Intel Core i5-4258U,2.4 GHz,2.9 GHz,0.01 / 10
+Intel Core i5-4278U,2.6 GHz,3.1 GHz,0.01 / 10
+Intel Core i5-4308U,2.8 GHz,3.3 GHz,0.01 / 10
+AMD FX-7600P,2.7 GHz,3.6 GHz,0.01 / 10
+Intel Core i5-4210H,2.9 GHz,3.5 GHz,0.01 / 10
+AMD Ryzen 3 3300U,2.1 GHz,3.5 GHz,0.01 / 10
+Intel Core i5-4310U,2 GHz,3 GHz,0.01 / 10
+AMD A10-7400P,2.5 GHz,3.4 GHz,0.01 / 10
+Intel Core i3-4100M,2.5 GHz,0 GHz,0.01 / 10
+Intel Core i5-5200U,2.2 GHz,2.7 GHz,0.01 / 10
+Intel Core i7-640M,2.8 GHz,3.46 GHz,0.01 / 10
+Intel Core i7-5500U,2.4 GHz,3 GHz,0.01 / 10
+Intel Core i7-720QM,0 GHz,0 GHz,0.01 / 10
+Intel Core i7-740QM,1.73 GHz,2.93 GHz,0.01 / 10
+Intel Core i7-5600U,2.6 GHz,3.2 GHz,0.01 / 10
+Intel Core i7-820QM,1.73 GHz,3.06 GHz,0.01 / 10
+Intel Core i7-5650U,2.2 GHz,3.2 GHz,0.01 / 10
+Intel Core i5-5250U,1.6 GHz,2.7 GHz,0.01 / 10
+Intel Core i5-5350U,1.8 GHz,2.9 GHz,0.01 / 10
+Intel Core i7-5557U,3.1 GHz,3.4 GHz,0.01 / 10
+Intel Core i5-5257U,2.7 GHz,3.1 GHz,0.01 / 10
+Intel Core i5-5287U,2.9 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-4558U,2.8 GHz,3.3 GHz,0.01 / 10
+Intel Core i5-5300U,2.3 GHz,2.9 GHz,0.01 / 10
+Intel Core i5-1240U,1.1 GHz,4.4 GHz,0.01 / 10
+Intel Core i3-1210U,1 GHz,4.4 GHz,0.01 / 10
+AMD FX-8800P,2.1 GHz,3.4 GHz,0.01 / 10
+Intel Core i7-1260U,1.1 GHz,4.7 GHz,0.01 / 10
+AMD A10-8700P,1.8 GHz,3.2 GHz,0.01 / 10
+AMD A6-7310,2 GHz,2.4 GHz,0 / 10
+AMD Phenom II X3 N850,0 GHz,0 GHz,0 / 10
+Intel Core i3-5020U Processor,2.2 GHz,0 GHz,0 / 10
+Intel Core i5-480M,2.66 GHz,2.93 GHz,0 / 10
+AMD Phenom II X3 N830,2.1 GHz,0 GHz,0 / 10
+AMD Phenom II X3 N850,2.2 GHz,0 GHz,0 / 10
+Intel Core i3-390M,2.66 GHz,0 GHz,0 / 10
+AMD Phenom II X4 N930,2 GHz,0 GHz,0 / 10
+AMD Phenom II X2 N660,3 GHz,0 GHz,0 / 10
+Intel Core i3-2310M,2.1 GHz,0 GHz,0 / 10
+AMD Phenom II X4 P960,1.8 GHz,0 GHz,0 / 10
+Intel Core i7-2617M,1.5 GHz,2.6 GHz,0 / 10
+AMD A6-3400M,1.4 GHz,2.3 GHz,0 / 10
+Intel Core i3-2330M,2.2 GHz,0 GHz,0 / 10
+AMD A8-3500M,1.5 GHz,2.4 GHz,0 / 10
+AMD A6-9210,2.4 GHz,2.8 GHz,0 / 10
+Intel Core i3-6006U,2 GHz,0 GHz,0 / 10
+Intel Core i5-2467M,1.6 GHz,2.3 GHz,0 / 10
+Intel Core i5-2557M,1.7 GHz,2.7 GHz,0 / 10
+AMD A8-3510MX,1.8 GHz,2.5 GHz,0 / 10
+AMD A6-3410MX,1.6 GHz,2.3 GHz,0 / 10
+AMD A9-9400,2.4 GHz,3.2 GHz,0 / 10
+Intel Core i7-2637M,1.7 GHz,2.8 GHz,0 / 10
+AMD A9-9420,3 GHz,3.6 GHz,0 / 10
+Intel Core i3-2367M,1.4 GHz,0 GHz,0 / 10
+Intel Core i7-2677M,1.8 GHz,2.9 GHz,0 / 10
+Intel Core i3-2350M,2.3 GHz,0 GHz,0 / 10
+Intel Core i5-13450HX,2.40 GHz,4.60 GHz,0 / 10
+AMD A6-9220,2.4 GHz,2.8 GHz,0 / 10
+AMD A6-3420M,1.5 GHz,2.4 GHz,0 / 10
+Intel Core i5-13505H,2.60 GHz,4.70 GHz,0 / 10
+Intel Core i5-13500H,2.60 GHz,4.70 GHz,0 / 10
+AMD A8-3530MX,1.9 GHz,2.6 GHz,0 / 10
+Intel Core i5-13420H,2.10 GHz,4.60 GHz,0 / 10
+AMD A6-3430MX,1.7 GHz,2.4 GHz,0 / 10
+AMD A8-3520M,1.6 GHz,2.5 GHz,0 / 10
+AMD A6-4400M,2.7 GHz,3.2 GHz,0 / 10
+Intel Core i3-2370M,2.4 GHz,GHz,0 / 10
+Intel Core i5-3317U,1.7 GHz,2.6 GHz,0 / 10
+AMD A8-4500M,1.9 GHz,2.8 GHz,0 / 10
+Intel Core i5-3317U,1.7 GHz,2.6 GHz,0 / 10
+AMD A9-9425,3.1 GHz,3.7 GHz,0 / 10
+AMD A6-9225,2.6 GHz,3 GHz,0 / 10
+AMD A10-4600M,2.3 GHz,3.2 GHz,0 / 10
+AMD A6-9220e,1.6 GHz,2.4 GHz,0 / 10
+Intel Core i3-3217U,1.8 GHz,0 GHz,0 / 10
+AMD A9-9420e,1.8 GHz,2.7 GHz,0 / 10
+Intel Core i3-2365M,1.4 GHz,0 GHz,0 / 10
+Intel Core i3-2328M,2.2 GHz,0 GHz,0 / 10
+AMD A8-4555M,1.6 GHz,2.4 GHz,0 / 10
+AMD A6-4455M,2.1 GHz,2.6 GHz,0 / 10
+Intel Core i5-3337U,1.8 GHz,2.7 GHz,0 / 10
+Intel Core i3-3227U,1.9 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P8800,0 GHz,0 GHz,0 / 10
+Intel Core i3-2348M,2.3 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P9700,0 GHz,0 GHz,0 / 10
+Intel Pentium 2020M,2.4 GHz,0 GHz,0 / 10
+Intel Core i5-3337U,1.8 GHz,2.7 GHz,0 / 10
+Intel Core i3-2375M,1.5 GHz,GHz,0 / 10
+Intel Core i3-3229Y,1.5 GHz,0 GHz,0 / 10
+Intel Core i5-3339Y,1.5 GHz,2 GHz,0 / 10
+Intel Core i5-4250U,1.3 GHz,2.6 GHz,0 / 10
+Intel Core i3-4010U,1.7 GHz,GHz,0 / 10
+AMD A8-5550M,2.1 GHz,3.1 GHz,0 / 10
+AMD A6-5200,2 GHz,0 GHz,0 / 10
+Intel Core i3-4005U,1.7 GHz,0 GHz,0 / 10
+AMD A10-5745M,2.1 GHz,2.9 GHz,0 / 10
+Intel Core i5-4200Y,1.4 GHz,1.9 GHz,0 / 10
+Intel Pentium N3510,2 GHz,0 GHz,0 / 10
+Intel Pentium N3520,2.17 GHz,2.42 GHz,0 / 10
+Intel Core 2 Duo T9600,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T9800,0 GHz,0 GHz,0 / 10
+Intel Core 2 Quad Q9000,0 GHz,0 GHz,0 / 10
+Intel Core i5-4210Y,1.5 GHz,1.9 GHz,0 / 10
+Intel Pentium Gold 4425Y,1.7 GHz,0 GHz,0 / 10
+Intel Core i3-4030U,1.9 GHz,0 GHz,0 / 10
+AMD A10-7300B,1.9 GHz,3.2 GHz,0 / 10
+Intel Pentium N3530,2.16 GHz,2.58 GHz,0 / 10
+Intel Celeron N2830,2.16 GHz,2.41 GHz,0 / 10
+AMD A6-6310,2 GHz,2.4 GHz,0 / 10
+AMD A4-6210,1.8 GHz,0 GHz,0 / 10
+AMD A8-6410,2 GHz,2.4 GHz,0 / 10
+AMD A10-7300,1.9 GHz,3.2 GHz,0 / 10
+Intel Celeron N2930,1.83 GHz,2.16 GHz,0 / 10
+MediaTek Helio P22T,1.8 GHz,2.3 GHz,0 / 10
+Intel Core i3-370M,2.4 GHz,0 GHz,0 / 10
+Intel Celeron N2840,2.16 GHz,2.58 GHz,0 / 10
+Intel Core i3-380M,2.53 GHz,0 GHz,0 / 10
+Intel Pentium N3540,2.16 GHz,2.66 GHz,0 / 10
+Intel Core i5-430M,2.26 GHz,2.53 GHz,0 / 10
+AMD FX-7500,2.1 GHz,3.3 GHz,0 / 10
+Intel Core i5-450M,2.4 GHz,2.53 GHz,0 / 10
+Intel Core i5-460M,2.53 GHz,2.8 GHz,0 / 10
+Intel Core i5-520M,2.4 GHz,2.93 GHz,0 / 10
+Intel Core i5-540M,2.53 GHz,3.06 GHz,0 / 10
+Intel Celeron N2920,1.86 GHz,2 GHz,0 / 10
+Intel Core i5-560M,2.66 GHz,3.2 GHz,0 / 10
+Intel Core i7-620M,2.66 GHz,3.33 GHz,0 / 10
+Intel Core i3-5010U,2.1 GHz,0 GHz,0 / 10
+Intel Core i3-5005U,2 GHz,0 GHz,0 / 10
+AMD A8-7410,2.2 GHz,2.5 GHz,0 / 10
+AMD A4-7210,1.8 GHz,2.2 GHz,0 / 10
+Intel Pentium N3700,1.6 GHz,2.6 GHz,0 / 10
+AMD Ryzen 5 4600H,3 GHz,4 GHz,2.86 / 10
+AMD Ryzen 3 Pro 4450U,2.50 GHz,3.70 GHz,2.07 / 10
+Intel Core i3-1315U,3.30 GHz,4.50 GHz,1.67 / 10
+Intel Core i3-1305U,3.30 GHz,4.50 GHz,1.67 / 10
+Microsoft ARM SQ2,1.8 GHz,3.1 GHz,1.09 / 10
+Microsoft ARM SQ1,1.8 GHz,3 GHz,1.05 / 10
+Intel Core i5-1030NG7,1.1 GHz,3.5 GHz,0.9 / 10
+Intel Pentium Gold 7505,2 GHz,3.5 GHz,0.8 / 10
+Intel Celeron N5105,2 GHz,2.9 GHz,0.74 / 10
+Intel Celeron N5100,1.10 GHz,2.80 GHz,0.74 / 10
+AMD Athlon Gold 7220U,2.40 GHz,3.70 GHz,0.71 / 10
+AMD Athlon Gold 3150U,2.6 GHz,3.3 GHz,0.71 / 10
+Intel Core i3-1000NG4,1.1 GHz,3.2 GHz,0.67 / 10
+AMD Athlon Silver 3050U,2.3 GHz,3.2 GHz,0.63 / 10
+Intel Celeron N4120,1.1 GHz,2.6 GHz,0.45 / 10
+Intel Core i3-10100Y,1.30 GHz,3.90 GHz,0.43 / 10
+AMD 3015Ce,1.20 GHz,2.30 GHz,0.39 / 10
+AMD 3020e,1.2 GHz,2.6 GHz,0.39 / 10
+Intel Celeron N4020,1.1 GHz,2.8 GHz,0.29 / 10
+Intel Pentium Gold 6500Y,1.10 GHz,3.40 GHz,0.26 / 10
+Snapdragon 7c Gen 2,2.55 GHz,2.55 GHz,0.24 / 10
+Intel Core m3-7Y30,1 GHz,2.6 GHz,0.01 / 10
+AMD Ryzen 3 5425U,2.70 GHz,4.10 GHz,0.01 / 10
+Intel Core m3-7Y32,1 GHz,3 GHz,0.01 / 10
+Intel Pentium 4415U,2.3 GHz,0 GHz,0.01 / 10
+AMD Athlon 300U,2.4 GHz,3.3 GHz,0.01 / 10
+Intel Core i7-8500Y,1.5 GHz,4.2 GHz,0.01 / 10
+Intel Pentium M 760,0 GHz,0 GHz,0 / 10
+AMD Athlon 64 L110,0 GHz,0 GHz,0 / 10
+Intel Pentium M 778,0 GHz,0 GHz,0 / 10
+AMD Athlon II M300,2 GHz,GHz,0 / 10
+Intel Pentium P6200,2.13 GHz,0 GHz,0 / 10
+Intel Atom Z3735F,1.33 GHz,1.86 GHz,0 / 10
+AMD Athlon II M340,0 GHz,0 GHz,0 / 10
+Intel Mobile A A110,0 GHz,0 GHz,0 / 10
+Intel Atom Processor Z3735E,1.33 GHz,1.83 GHz,0 / 10
+AMD Athlon II M520,0 GHz,0 GHz,0 / 10
+VIA C7-M-1000,0 GHz,0 GHz,0 / 10
+AMD E2-7110,1.8 GHz,0 GHz,0 / 10
+AMD Athlon II Neo K125,0 GHz,0 GHz,0 / 10
+VIA C7-M-1200,0 GHz,0 GHz,0 / 10
+AMD Athlon II P320,0 GHz,0 GHz,0 / 10
+VIA C7-M-1600,0 GHz,0 GHz,0 / 10
+AMD Athlon II P340,2.3 GHz,0 GHz,0 / 10
+AMD Athlon II N330,2.3 GHz,2.3 GHz,0 / 10
+AMD Athlon Neo X2 L325,0 GHz,0 GHz,0 / 10
+Intel Atom Z3736F,1.33 GHz,2.16 GHz,0 / 10
+AMD Athlon Neo MV-40,0 GHz,0 GHz,0 / 10
+AMD Athlon Neo X2 L335,0 GHz,0 GHz,0 / 10
+AMD V-Series V140,0 GHz,0 GHz,0 / 10
+AMD Athlon Neo X2 L335,0 GHz,0 GHz,0 / 10
+AMD Phenom II X3 P840,1.9 GHz,0 GHz,0 / 10
+AMD Athlon X2 M320,0 GHz,0 GHz,0 / 10
+Intel Core i5-470UM,1.33 GHz,1.86 GHz,0 / 10
+Intel Core m3-6Y30,0.9 GHz,2.2 GHz,0 / 10
+AMD Athlon X2 QL-60,0 GHz,0 GHz,0 / 10
+Intel Celeron M U3400,0 GHz,0 GHz,0 / 10
+AMD Athlon Neo X2 L325,0 GHz,0 GHz,0 / 10
+AMD Mobile Sempron 210U,0 GHz,0 GHz,0 / 10
+Intel Pentium P6300,2.26 GHz,0 GHz,0 / 10
+AMD Turion II P560,2.5 GHz,0 GHz,0 / 10
+Intel Atom x5-Z8350,1.44 GHz,1.92 GHz,0 / 10
+AMD Phenom II X3 P820,1.8 GHz,0 GHz,0 / 10
+Intel Core m5-6Y57,1.1 GHz,2.8 GHz,0 / 10
+AMD Mobile Sempron 3000+,0 GHz,0 GHz,0 / 10
+AMD E-350,1.6 GHz,0 GHz,0 / 10
+AMD Mobile Sempron 3100+,0 GHz,0 GHz,0 / 10
+Intel Core m7-6Y57,1.2 GHz,3.1 GHz,0 / 10
+AMD Mobile Sempron 3200+,0 GHz,0 GHz,0 / 10
+Intel Core i5-560UM,1.33 GHz,2.13 GHz,0 / 10
+Intel Core M5-6Y54,1.1 GHz,2.7 GHz,0 / 10
+AMD Mobile Sempron 3300+,0 GHz,0 GHz,0 / 10
+Intel Pentium N3710,1.6 GHz,2.56 GHz,0 / 10
+AMD Mobile Sempron 3400+,0 GHz,0 GHz,0 / 10
+AMD C-50,1 GHz,0 GHz,0 / 10
+AMD Mobile Sempron 3500+,0 GHz,0 GHz,0 / 10
+AMD Mobile Sempron 3600+,0 GHz,0 GHz,0 / 10
+AMD Mobile Sempron 3800+,0 GHz,0 GHz,0 / 10
+Intel Atom x5-Z8300,1.44 GHz,1.84 GHz,0 / 10
+AMD Mobile Sempron SI-40,0 GHz,0 GHz,0 / 10
+AMD Athlon II P360,0 GHz,0 GHz,0 / 10
+AMD Mobile Sempron SI-42,0 GHz,0 GHz,0 / 10
+Intel Core m7-6Y75 Processor,1.2 GHz,3.1 GHz,0 / 10
+AMD Turion II Neo K625,0 GHz,0 GHz,0 / 10
+Intel Atom N570,1.66 GHz,0 GHz,0 / 10
+AMD Turion 64 MK-38,0 GHz,0 GHz,0 / 10
+Intel Core i5-2537M,1.4 GHz,2.3 GHz,0 / 10
+AMD Turion 64 ML-32,0 GHz,0 GHz,0 / 10
+AMD V-Series V160,0 GHz,0 GHz,0 / 10
+AMD Turion 64 MT-40,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TL-56,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TL-50,0 GHz,0 GHz,0 / 10
+Intel Pentium U5600,1.33 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 T-52,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TL-62,0 GHz,0 GHz,0 / 10
+AMD Turion II M500,0 GHz,0 GHz,0 / 10
+AMD A4-3300M,1.9 GHz,2.5 GHz,0 / 10
+AMD E1-7010,1.5 GHz,0 GHz,0 / 10
+AMD Turion II P540,0 GHz,0 GHz,0 / 10
+Intel Pentium B940,2 GHz,0 GHz,0 / 10
+Intel Atom x5-Z8550,1.44 GHz,2.4 GHz,0 / 10
+AMD Turion II P520,2.3 GHz,GHz,0 / 10
+AMD Turion II P520,0 GHz,0 GHz,0 / 10
+AMD Turion Neo X2 L625,0 GHz,0 GHz,0 / 10
+Intel Celeron N3060,1.6 GHz,2.48 GHz,0 / 10
+AMD Turion X2 QL-64,0 GHz,0 GHz,0 / 10
+AMD Turion X2 RM-70,0 GHz,0 GHz,0 / 10
+AMD Turion X2 RM-72,0 GHz,0 GHz,0 / 10
+Intel Pentium B950,2.1 GHz,0 GHz,0 / 10
+Intel Core i5-7Y54,1.2 GHz,3.2 GHz,0 / 10
+AMD Turion X2 RM-74,0 GHz,0 GHz,0 / 10
+AMD Athlon II Neo K145,0 GHz,0 GHz,0 / 10
+AMD Turion X2 QL-65,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TL-60,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TL-64,0 GHz,0 GHz,0 / 10
+AMD C-60,1 GHz,1.33 GHz,0 / 10
+Intel Core i7-7Y75,1.3 GHz,3.6 GHz,0 / 10
+AMD Turion 64 X2 TL-66,0 GHz,0 GHz,0 / 10
+AMD E-450,1.65 GHz,0 GHz,0 / 10
+AMD Turion X2 RM-75,0 GHz,0 GHz,0 / 10
+AMD Turion X2 Ultra ZM-82,0 GHz,0 GHz,0 / 10
+Intel Celeron N3350,1.1 GHz,2.4 GHz,0 / 10
+AMD Turion X2 Ultra ZM-84,0 GHz,0 GHz,0 / 10
+Intel Celeron B800,1.5 GHz,0 GHz,0 / 10
+Intel Pentium N4200,1.1 GHz,2.5 GHz,0 / 10
+AMD Turion X2 Ultra ZM-80,0 GHz,0 GHz,0 / 10
+AMD Turion II Ultra M600,0 GHz,0 GHz,0 / 10
+Intel Core i3-2357M,1.3 GHz,0 GHz,0 / 10
+AMD Turion 64 MK-36,0 GHz,0 GHz,0 / 10
+AMD Turion 64 ML-34,0 GHz,0 GHz,0 / 10
+AMD E2-6110,1.5 GHz,0 GHz,0 / 10
+AMD Turion 64 MT-32,0 GHz,0 GHz,0 / 10
+Intel Atom N435,1.33 GHz,0 GHz,0 / 10
+AMD E2-9000,1.8 GHz,2.2 GHz,0 / 10
+AMD Turion 64 X2 TL-60,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TK-53,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TK-55,0 GHz,0 GHz,0 / 10
+Intel Pentium B960,2.2 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TK-57,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TL-56,0 GHz,0 GHz,0 / 10
+Intel Atom D2700,2.13 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TL-58,0 GHz,0 GHz,0 / 10
+AMD Turion 64 X2 TL-60,0 GHz,0 GHz,0 / 10
+AMD V-Series V120,0 GHz,0 GHz,0 / 10
+AMD Athlon X2 QL-64,0 GHz,0 GHz,0 / 10
+Intel Celeron B815,1.6 GHz,0 GHz,0 / 10
+Athlon Neo MV-40,0 GHz,0 GHz,0 / 10
+AMD E-240,1.5 GHz,0 GHz,0 / 10
+Intel Atom D525,0 GHz,0 GHz,0 / 10
+AMD A4-9120,2.2 GHz,2.5 GHz,0 / 10
+Intel Atom N270,0 GHz,0 GHz,0 / 10
+AMD A4-3305M,1.9 GHz,2.5 GHz,0 / 10
+Intel Atom N280,0 GHz,0 GHz,0 / 10
+Intel Celeron N3450,1.1 GHz,2.2 GHz,0 / 10
+Intel Atom N450,0 GHz,0 GHz,0 / 10
+Intel Atom N2800,1.86 GHz,0 GHz,0 / 10
+Intel Atom N455,0 GHz,0 GHz,0 / 10
+Intel Atom N2600,1.6 GHz,0 GHz,0 / 10
+Intel Atom N470,0 GHz,0 GHz,0 / 10
+Intel Atom N475,0 GHz,0 GHz,0 / 10
+Intel Atom N550,1.5 GHz,0 GHz,0 / 10
+AMD A4-3300MX,1.9 GHz,2.5 GHz,0 / 10
+Intel Atom 330,0 GHz,0 GHz,0 / 10
+AMD A4-3305MX,1.9 GHz,2.5 GHz,0 / 10
+Intel Atom Z530,0 GHz,0 GHz,0 / 10
+Intel Atom Z540,0 GHz,0 GHz,0 / 10
+Intel Atom Z520,0 GHz,0 GHz,0 / 10
+Intel Atom Z530,0 GHz,0 GHz,0 / 10
+Intel Atom Z540,0 GHz,0 GHz,0 / 10
+Intel Atom Z550,0 GHz,0 GHz,0 / 10
+Intel Celeron Dual-Core T1700,0 GHz,0 GHz,0 / 10
+Intel Celeron 743,0 GHz,0 GHz,0 / 10
+Intel Celeron Dual-Core SU2300,0 GHz,0 GHz,0 / 10
+Intel Celeron Dual-Core T3000,0 GHz,0 GHz,0 / 10
+Intel Celeron M 220,0 GHz,0 GHz,0 / 10
+Intel Celeron M 380,0 GHz,0 GHz,0 / 10
+Intel Celeron M 390,0 GHz,0 GHz,0 / 10
+Intel Pentium B987,1.5 GHz,GHz,0 / 10
+Intel Celeron M 410,0 GHz,0 GHz,0 / 10
+Intel Celeron 877,1.4 GHz,GHz,0 / 10
+AMD A4-9125,2.3 GHz,2.6 GHz,0 / 10
+Intel Celeron M 420,0 GHz,0 GHz,0 / 10
+Intel Celeron N4000,1.1 GHz,2.6 GHz,0 / 10
+Intel Celeron M 430,0 GHz,0 GHz,0 / 10
+Intel Pentium B970,2.3 GHz,GHz,0 / 10
+Intel Pentium 4405U,2.1 GHz,0 GHz,0 / 10
+Intel Celeron M 440,0 GHz,0 GHz,0 / 10
+Intel Pentium B967,1.3 GHz,GHz,0 / 10
+Intel Celeron M 520,0 GHz,0 GHz,0 / 10
+Intel Celeron B820,1.7 GHz,GHz,0 / 10
+Intel Celeron M 520,0 GHz,0 GHz,0 / 10
+Intel Celeron M 530,0 GHz,0 GHz,0 / 10
+Intel Celeron M 540,0 GHz,0 GHz,0 / 10
+Intel Celeron M 550,0 GHz,0 GHz,0 / 10
+Intel Celeron M 560,0 GHz,0 GHz,0 / 10
+Intel Celeron M 585,0 GHz,0 GHz,0 / 10
+AMD E1-1200,1.4 GHz,0 GHz,0 / 10
+Intel Pentium M ULV-900,0 GHz,0 GHz,0 / 10
+Intel Celeron M 575,0 GHz,0 GHz,0 / 10
+Intel Pentium B980,2.4 GHz,0 GHz,0 / 10
+Intel Celeron processor 723,0 GHz,0 GHz,0 / 10
+Intel Celeron N4100,1.1 GHz,2.4 GHz,0 / 10
+Intel Core 2 Duo,0 GHz,0 GHz,0 / 10
+Intel Pentium B997,1.6 GHz,GHz,0 / 10
+AMD E2-9000e,1.5 GHz,2 GHz,0 / 10
+Intel Core 2 Duo SP7500,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SL9300,0 GHz,0 GHz,0 / 10
+Intel Celeron 847,1.1 GHz,GHz,0 / 10
+Intel Core 2 Duo SL9400,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SP7700,0 GHz,0 GHz,0 / 10
+Intel Celeron B830,1.8 GHz,GHz,0 / 10
+Intel Core 2 Duo T8100,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T8300,0 GHz,0 GHz,0 / 10
+nVidia Tegra 3,1.3 GHz,GHz,0 / 10
+Intel Core 2 Duo T9300,0 GHz,0 GHz,0 / 10
+Intel Atom Z2760,1.8 GHz,0 GHz,0 / 10
+Intel Core 2 Duo L7500,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P7350,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P7370,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P7450,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P7550,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P7570,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P8400,0 GHz,0 GHz,0 / 10
+AMD E2-2000,1.75 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P8600,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P8700,0 GHz,0 GHz,0 / 10
+AMD E2-1800,1.7 GHz,0 GHz,0 / 10
+Intel Celeron 1000M,1.8 GHz,0 GHz,0 / 10
+AMD A4-9120e,1.5 GHz,2.2 GHz,0 / 10
+Intel Core 2 Duo P9500,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P9600,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo L7100,0 GHz,0 GHz,0 / 10
+Intel Pentium 2117U,1.8 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SL9300,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SL9400,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SL9600,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SP9300,0 GHz,0 GHz,0 / 10
+Intel Pentium 2129Y,1.1 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SP9400,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SP9600,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SU2300,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SU2700,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SU3500,0 GHz,0 GHz,0 / 10
+Intel Celeron 1007U,1.5 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SU7300,0 GHz,0 GHz,0 / 10
+Intel Celeron 4205U,1.8 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SU9300,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo SU9400,0 GHz,0 GHz,0 / 10
+AMD A4-1250,1 GHz,GHz,0 / 10
+Intel Core 2 Duo SU9600,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5200,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5250,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5270,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5300,0 GHz,0 GHz,0 / 10
+Intel Pentium 2127U,1.9 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5450,0 GHz,0 GHz,0 / 10
+Intel Celeron 1017U,1.6 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5470,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5500,0 GHz,0 GHz,0 / 10
+Intel Celeron 1005M,1.9 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5550,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5600,0 GHz,0 GHz,0 / 10
+Quad-Core,1.4 GHz,1.4 GHz,0 / 10
+Intel Core 2 Duo T5670,0 GHz,0 GHz,0 / 10
+AMD A4-5000,1.5 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5750,0 GHz,0 GHz,0 / 10
+AMD E1-2100,1 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5800,0 GHz,0 GHz,0 / 10
+Intel Celeron 5205U,1.9 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5850,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5870,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T5900,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T6400,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T6500,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T6570,0 GHz,0 GHz,0 / 10
+AMD A6-1450,1 GHz,1.4 GHz,0 / 10
+Intel Core 2 Duo T6600,0 GHz,0 GHz,0 / 10
+AMD A4-1200,1 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T6670,0 GHz,0 GHz,0 / 10
+Intel Celeron 2955U,1.4 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T7100,0 GHz,0 GHz,0 / 10
+AMD E1-1500,1.48 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T7200,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T7250,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T7300,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T7300,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo P7350,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T7400,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T7500,0 GHz,0 GHz,0 / 10
+Intel Atom Z3740,1.33 GHz,GHz,0 / 10
+Intel Core 2 Duo T7700,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T8100,0 GHz,0 GHz,0 / 10
+Intel Cerelon N2820,2.4 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T8300,0 GHz,0 GHz,0 / 10
+Intel Celeron N2805,1.46 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T8700,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T9300,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T9400,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo T9550,0 GHz,0 GHz,0 / 10
+Intel Celeron 2950M,2 GHz,0 GHz,0 / 10
+Intel Core 2 Duo U7500,0 GHz,0 GHz,0 / 10
+Intel Celeron N2815,1.86 GHz,2.13 GHz,0 / 10
+Intel Core 2 Duo U7600,0 GHz,0 GHz,0 / 10
+AMD A4-5150M,2.7 GHz,3.3 GHz,0 / 10
+Intel Core 2 Duo U7700,0 GHz,0 GHz,0 / 10
+Intel Core 2 Duo U7500,0 GHz,0 GHz,0 / 10
+Intel Core i5-4202Y,1.6 GHz,2 GHz,0 / 10
+Intel Celeron 2957U,1.4 GHz,0 GHz,0 / 10
+Intel Core Duo L2300,0 GHz,0 GHz,0 / 10
+Intel Pentium 3558U,1.7 GHz,0 GHz,0 / 10
+Intel Core Duo L2400,0 GHz,0 GHz,0 / 10
+Intel Celeron Dual-Core T1400,0 GHz,0 GHz,0 / 10
+Intel Celeron Dual-Core T1600,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2050,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2060,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2080,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2130,0 GHz,0 GHz,0 / 10
+Intel Pentium 3556U,1.7 GHz,0 GHz,0 / 10
+Intel Core Duo T2250,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2300,0 GHz,0 GHz,0 / 10
+AMD E1-6010,1.35 GHz,0 GHz,0 / 10
+Intel Core Duo T2300E,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2310,0 GHz,0 GHz,0 / 10
+Intel Celeron 6205,1.7 GHz,0 GHz,0 / 10
+Intel Core Duo T2330,0 GHz,0 GHz,0 / 10
+Intel Celeron 6305,1.8 GHz,0 GHz,0 / 10
+Intel Core Duo T2350,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2370,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2390,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2400,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2410,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2450,GHz,GHz,0 / 10
+Intel Core Duo T2500,0 GHz,0 GHz,0 / 10
+Intel Core Duo T2600,0 GHz,0 GHz,0 / 10
+Intel Atom Z3745,1.33 GHz,1.86 GHz,0 / 10
+Intel Core Duo T2700,0 GHz,0 GHz,0 / 10
+Intel Atom Z3775,1.46 GHz,2.39 GHz,0 / 10
+Intel Core Duo T3200,0 GHz,0 GHz,0 / 10
+Intel Core Duo T3400,0 GHz,0 GHz,0 / 10
+Intel Core Duo T4200,0 GHz,0 GHz,0 / 10
+Intel Core Duo T4300,0 GHz,0 GHz,0 / 10
+Intel Pentium Dual Core T4400,0 GHz,0 GHz,0 / 10
+Intel Core Duo T4500,0 GHz,0 GHz,0 / 10
+Intel Core Duo U2500,0 GHz,0 GHz,0 / 10
+Intel Core i3-330M,2.13 GHz,0 GHz,0 / 10
+Intel Pentium 3550M,2.3 GHz,0 GHz,0 / 10
+Intel Core i3-350M,2.26 GHz,0 GHz,0 / 10
+Intel Celeron N2807,1.58 GHz,2.16 GHz,0 / 10
+Intel Core i3-380UM,1.33 GHz,0 GHz,0 / 10
+Intel Celeron 1037U,1.8 GHz,0 GHz,0 / 10
+Intel Core i5-430UM,1.2 GHz,1.73 GHz,0 / 10
+AMD E1-2500,1.4 GHz,0 GHz,0 / 10
+AMD A6-5350M,2.9 GHz,3.5 GHz,0 / 10
+Intel Core i5-520UM,1.06 GHz,1.86 GHz,0 / 10
+Intel Celeron N4500,1.1 GHz,2.8 GHz,0 / 10
+Intel Core i7-620LM,0 GHz,0 GHz,0 / 10
+Intel Core M-5Y70,1.1 GHz,2.6 GHz,0 / 10
+Intel Core i7-620UM,0 GHz,0 GHz,0 / 10
+Intel Celeron N2806,1.6 GHz,2 GHz,0 / 10
+Intel Core i7-640LM,0 GHz,0 GHz,0 / 10
+Intel Core i3-4012Y,1.5 GHz,0 GHz,0 / 10
+Intel Core i7-640UM,1.2 GHz,2.26 GHz,0 / 10
+Intel Core M-5Y10,0.8 GHz,2 GHz,0 / 10
+Intel Core Solo,0 GHz,0 GHz,0 / 10
+Intel Core Solo,0 GHz,0 GHz,0 / 10
+Intel Core Solo T1300,0 GHz,0 GHz,0 / 10
+Intel Core Solo T1350,0 GHz,0 GHz,0 / 10
+Intel Core Solo U1300,0 GHz,0 GHz,0 / 10
+Intel Core Solo U1400,0 GHz,0 GHz,0 / 10
+Intel Dothan Celeron M 535,0 GHz,0 GHz,0 / 10
+AMD A6-7050B,2.2 GHz,3 GHz,0 / 10
+Intel Pentium P6100,2 GHz,0 GHz,0 / 10
+Intel Core M-5Y71,1.2 GHz,2.9 GHz,0 / 10
+Intel Pentium P6000,1.86 GHz,0 GHz,0 / 10
+Intel Pentium P6000,0 GHz,0 GHz,0 / 10
+Intel Pentium P6000,0 GHz,0 GHz,0 / 10
+Intel Celeron 3205U,1.5 GHz,0 GHz,0 / 10
+Intel Pentium Dual Core SU4100,0 GHz,0 GHz,0 / 10
+Intel Core M-5Y31,0.9 GHz,2.4 GHz,0 / 10
+Intel Pentium Dual Core T4500,0 GHz,0 GHz,0 / 10
+Intel Core M-5Y51,1.1 GHz,2.6 GHz,0 / 10
+Intel Pentium U5400,1.2 GHz,0 GHz,0 / 10
+Intel Celeron M 575,0 GHz,0 GHz,0 / 10
+Intel Celeron N3050,1.6 GHz,2.16 GHz,0 / 10
+Intel Pentium M 730,0 GHz,0 GHz,0 / 10
+AMD E1-6015,1.4 GHz,0 GHz,0 / 10
+Intel Pentium M 735,0 GHz,0 GHz,0 / 10
+Intel Pentium M 740,0 GHz,0 GHz,0 / 10
+Intel Pentium M 745,0 GHz,0 GHz,0 / 10
+Intel Pentium M 745,0 GHz,0 GHz,0 / 10
+Intel Pentium M 750,0 GHz,0 GHz,0 / 10
