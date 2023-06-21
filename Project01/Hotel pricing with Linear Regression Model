@@ -1,0 +1,73 @@
+library("httr")
+library("readxl")
+library(caret)
+library(tidyverse)
+
+GET("https://query.data.world/s/4vgtgoeacl3dc45wnjqi5ddj4alqiy", write_disk(tf <- tempfile(fileext = ".xlsx")))
+
+df_house <- read_xlsx(tf)
+
+# 0. Data manipulation
+names(df_house) <- gsub(" ","_",names(df_house))
+names(df_house) <- gsub("[()]","_",names(df_house))
+cor(df_house)
+
+# 1. split data
+split_house <- train_test_split(df_house, 0.7)
+train_house <- split_house[[1]]
+test_house <- split_house[[2]]
+
+
+# 2. train
+set.seed(42)
+ctrl <- trainControl(
+  method = "cv",
+  number = 5,
+  verboseIter = TRUE
+)
+
+model <- train(log(Price) ~ number_of_bedrooms+
+                       number_of_bathrooms+
+                       living_area+
+                       lot_area+
+                       number_of_floors+
+                       waterfront_present+
+                       number_of_views+
+                       grade_of_the_house+
+                       Area_of_the_house_excluding_basement_+
+                       Area_of_the_basement+
+                       living_area_renov+
+                       lot_area_renov+
+                       Built_Year,                      
+                     
+                     data = train_house,
+                     method = "lm", 
+                     trControl = ctrl
+                     )
+
+# 3. score
+p <- predict(model, newdata = test_house)
+
+# 4. evaluate
+mae_metric <- function(actual, prediction) {
+  # mean absolute error
+  abs_error <- abs(actual - prediction)
+  mean(abs_error)
+}
+
+mse_metric <- function(actual, prediction) {
+  # mean squarred error
+  sq_error <- (actual - prediction)**2
+  mean(sq_error)
+}
+
+
+rmse_metric <- function(actual, prediction) {
+  # mean squarred error
+  sq_error <- (actual - prediction)**2
+  sqrt(mean(sq_error))
+}
+
+paste('RMSE of Test: ', rmse_metric(log(test_house$Price), p))
+paste('MAE of Test: ', mae_metric(log(test_house$Price), p))
+paste('MSE of Test: ', mse_metric(log(test_house$Price), p))
